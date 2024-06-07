@@ -9,6 +9,7 @@ Tensorflow, Numpy, Pytorch를 활용한 AI 기초 학습
 
 - [선형대수란?](Desc/1-선형대수/1/선형대수%20개념.md)
 - [선형방정식 Plot 그리기](./Desc/1-선형대수/2/linear-algebra.ipynb)
+- [선형대수 연습문제 - 태양광 발전량](./Desc/1-선형대수/3/solar.ipynb)
 
 ---
 
