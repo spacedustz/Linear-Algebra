@@ -36,3 +36,7 @@ Tensorflow, Numpy, Pytorch를 활용한 Linear Algebra 기초 학습
 - [Higher Dimension Tensor - 고차원 텐서](1-선형대수/ND/higher-dimension-tensor.ipynb)
 
 ---
+
+## 텐서 계산
+
+- [텐서의 전치와 기본 연산](2-텐서계산/transposition.ipynb)
