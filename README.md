@@ -29,4 +29,10 @@ Tensorflow, Numpy, Pytorch를 활용한 Linear Algebra 기초 학습
 
 - [Matrix Tensor](jupyter/1-선형대수/2D/matrix-tensor.ipynb)
 
+<br>
+
+> **Higher Dimension Tensor**
+
+- [Higher Dimension Tensor - 고차원 텐서](jupyter/1-선형대수/ND/higher-dimension-tensor.ipynb)
+
 ---
