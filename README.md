@@ -1,7 +1,6 @@
-## AI
-Implementation and Learning - Machine Learning &amp; Deep Learning
+## Linear-Algebra
 
-Tensorflow, Numpy, Pytorch를 활용한 AI 기초 학습
+Tensorflow, Numpy, Pytorch를 활용한 Linear Algebra 기초 학습
 
 ---
 
