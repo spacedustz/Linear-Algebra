@@ -39,5 +39,6 @@ Tensorflow, Numpy, Pytorch를 활용한 Linear Algebra 기초 학습
 
 ## 텐서 계산
 
-- [텐서의 전치와 기본 연산](2-텐서계산/transposition.ipynb)
-- [아마다르 곱과 텐서 리덕션](2-텐서계산/hadamard-reduction.ipynb)
+- [Tensor Trasposition - 텐서의 전치와 기본 연산](2-텐서계산/transposition.ipynb)
+- [Hadamard & Reduction - 아다마르 곱과 텐서 리덕션](2-텐서계산/hadamard-reduction.ipynb)
+- [Dot Product - 내적](2-텐서계산/dot-product.ipynb)
