@@ -13,6 +13,7 @@ Tensorflow, Numpy, Pytorch를 활용한 AI 기초 학습
 - [Scala Tensor](jupyter/1-선형대수/scala.ipynb)
 - [Vector Tensor & Vector Transposition & Zero Vector](jupyter/1-선형대수/vector.ipynb)
 - [Norm Vector & Unit Vector & Squared Norm Vector](jupyter/1-선형대수/vector2.ipynb)
+- [Basis, Orthonormal Vector](jupyter/1-선형대수/vector3.ipynb)
 
 ---
 
